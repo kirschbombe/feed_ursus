@@ -346,9 +346,9 @@ terms:
 - id: grb
   term: Grebo
 - id: grc
-  term: Greek, Ancient (to 1453)
+  term: Greek
 - id: gre
-  term: Greek, Modern (1453-)
+  term: Greek
 - id: grn
   term: Guarani
 - id: gsw
@@ -880,7 +880,7 @@ terms:
 - id: syc
   term: Syriac
 - id: syr
-  term: Syriac, Modern
+  term: Syriac
 - id: tag
   term: Tagalog
 - id: tah
